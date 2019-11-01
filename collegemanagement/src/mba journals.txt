@@ -1,0 +1,62 @@
+List of National Journals (M.B.A)
+1
+	Asian Jul. of Management Cases-2/Yr
+2
+	Business Research-2/Yr
+3
+	Corporate India-24/Yr
+4
+	ICFAI:HRM Review-12/Yr
+5
+	Jul. of Brand Management-4/Yr
+6
+	Jul. of Knowledge Management-4/Yr
+7
+	Jul. of Managerial Economics-4/Yr
+8
+	Jul. of Applied Finance-12Yr
+9
+	Case Folio-12/Yr
+10
+	Indian Jul. of Marketing-12/Yr
+11
+	Indian Management-12/Yr
+12
+	Jul. of Financial Risk Management-4Yr
+13
+	Leadership Excellence-12/Yr
+14
+	Mutual Fund Insight-12/Yr
+15
+	Vikalpa-4/Yr
+List of International Journals (M.B.A)
+1
+	Annals of Finance
+2
+	Annals of Operation Research
+3
+	Small Business and Economics
+4
+	Finance and Stochastic
+5
+	Journal of Global Optimization
+6
+	Archive for Mathematical Logic
+7
+	Software Quality Control
+8
+	Information System and E-Business Management
+9
+	Mathematical Methods of OR
+10
+	Computational and Mathematical Organization
+11
+	Financial Markets and Portfolio M
+12
+	Information Technology and Mgt.
+13
+	Information System Frontiers
+14
+	Journal of Economics
+15
+	International Entrepreneurship 

@@ -1,0 +1,20 @@
+Laboratories
+
+• OOPS Lab
+• Data Structure
+• Java Programming
+• DBMS
+• Software Engineering
+• DAA
+• E-Commerce
+• Information System
+• Computer Network
+• Operating System
+• SPM
+• Artificial Intelligence(LISP/PROLOG)
+• Cryptography & Network Security
+• ITIM
+• Distributed System
+• Project
+• C Programming
+• Computer Graphics

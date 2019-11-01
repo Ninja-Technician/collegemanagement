@@ -1,0 +1,19 @@
+create database collegemang;
+
+use collegemang
+create table admision
+(
+	stid int,
+	fname varchar(20),
+	lname varchar(20),
+	fhname varchar(20),
+	address varchar(20),
+	gender varchar(20),
+	dob varchar(20),
+	doa varchar(20),
+	course varchar(20),
+	phno int,
+	eid varchar(20)
+);
+
+	

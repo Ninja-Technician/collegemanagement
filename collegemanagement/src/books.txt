@@ -1,0 +1,13 @@
+Sl.No 	SUBJECT 	No.of Titles 	No.of Volumes
+1. 	CSE&IT 	636 	2112
+2. 	ECE & EEE 	402 	1785
+3. 	CHEMICAL Engg 	235 	798
+4. 	MECH Engg 	375 	1464
+5. 	Basic Sciences
+	i. Management Science 	72 	148
+	ii. Mathematics 	191 	533
+	iii. Physics 	120 	351
+	iv.English 	274 	488
+6. 	General Books 	511 	715
+TOTAL BOOKS 	2816 	8394
+

@@ -1,0 +1,30 @@
+F Y BCA Books
+
+   1. Communicative English
+   2. Programming in C Language
+   3. Advanced Mathematics
+   4. Financial Accounting and Management
+   5. Introduction to Internet and HTML Scripting
+   6. PC Softwares
+   7. Computer Fundamental and Data Processing
+
+S Y BCA Books
+
+   1. Computer Organization and Micro Processors
+   2. Data and File Structure
+   3. Mathemactical Foundation of Computer Science
+   4. System Analysis And Design
+   5. Advanced Visual And Windows Programming
+   6. Operating System and Unix
+   7. Object Oriented Programming with C++
+   8. Scientific and statistical Computing
+
+T Y BCA Books
+
+   1. Data Communication and Network
+   2. Database Management System
+   3. Internet Technologies and Programming
+   4. Multimedia and Applications
+   5. Website Development and E Commerce
+   6. Software Project Management
+

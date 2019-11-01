@@ -1,0 +1,40 @@
+List of National Journals (IT)
+1
+	Intnl. Journal of Information Technology
+2
+	Intnl. Journal of Nanosystems
+3
+	Intnl. Journal of Intelligent Information Processing
+4
+	Intnl. Journal of Logic Based Intelligent System
+5
+	Intnl. Journal of Computer Sciences
+6
+	Journal of High Performance Communication System & Networking
+List of International Journals (IT)
+1
+	Industrial Informatics - IEEE Transactions on
+2
+	Information Forensics & Security - IEEE Transactions on
+3
+	Information Theory - IEEE Transactions on
+4
+	Mobile Computing - IEEE Transactions on
+5
+	Multimedia - IEEE Transactions on
+6
+	Wireless Communications - IEEE Transactions on
+7
+	Distributed Systems Online
+8
+	Internet Computing
+9
+	Software -IEEE
+10
+	Computer Graphics and Applications
+11
+	IT Professional
+12
+	Information and Security
+12
+	Network

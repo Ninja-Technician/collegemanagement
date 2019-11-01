@@ -1,0 +1,26 @@
+List of National Journals (M.C.A)
+1
+	Jul. of Computer Intelligence Theory and Practice-2/Yr
+2
+	Jul. of Scientific and Computation-2/Yr
+3
+	Jul. of Computer Science and Software Tech-2/Yr
+4
+	Jul. of Computer Sciences and Info.Tech-2/Yr
+5
+	Jul. of Advanced Research in Comp. Engg.-2/Yr
+6
+	Jul. of Computing and Application-2/Yr
+List of International Journals (M.C.A)
+1
+	IEEE-Trans on Software
+2
+	IEEE-Trans on Parallel and Distributed System
+3
+	IEEE-Trans on Computers
+4
+	IEEE-Trans on Multimedia
+5
+	IEEE-Trans on Wireless Communication
+6
+	IEEE-Trans on Networking

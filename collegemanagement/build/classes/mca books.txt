@@ -1,0 +1,196 @@
+1. Rajaraman V, "Fundamentals of Computers", PHI
+2. Norton Peter, "Introduction to Computers", TMH
+3. Hahn, "The Internet complete reference", TMH
+4. Norton Peter, "DOS Guide", Prentice Hall of India
+5. Gottfried, "Programming in C", Schaum's Series, Tata McGraw Hill
+6. Kanetkar Yashwant, "Let us C", BPB
+7. Ritchie Kernighan,, "The C Programming Language", PHI
+8. Kanetkar Yashwant , "Working with C", BPB
+9. Kanetkar Yashwant, "Pointer in C", BPB
+10. Bajpai, Kushwaha, Yadav, "Computers & C Programming", New Age
+11. Mano, M "Computer System and Architecture", PHI.
+12. Ram, B. "Computer Fundamentals, Architecture and Organization", New
+Age International (P) Ltd. Publishers.
+13. Pal Chaudhuri, P. "Computer Organization & Design", PHI.
+14. Malvino "Digital Principals and Applications, 4/e", Mc Graw Hill.
+15. Stallings,W "Computer Organization & Architecture", PHI.
+16. Brian O, "Management Information System", TMH.
+17. Davis, Olson, "Management Information System", TMH.
+18. Jain Sarika, "Information System", PPM.
+19. Korfhage, R.R.:"Discrete Computational Structures", Academic Press.
+20. PREPARATA, F.P., YEH, R. T.:"Introduction to Discrete Structures",Addition –Wesley.
+21. TREMBLEY, J.P and MANOHAR,R.P:"Discrete Mathematical Structures with Applications to Computer science" McGraw Hill.
+22. Prather,R.E.: "Discrete Mathematical structures for Computer Science", Hoghton Mijjlin.
+23. Kolman, B and Busby, R "Discrete Mathematical Structures for Computer Science "Prentice Hall.
+24. Sahni,S "Concepts in Discrete Mathematics" Camelot Publisher U.S.A.
+25. Horowitz and Sahani, "Fundamentals of data Structures", Galgotia
+26. KruseR., "Data Structures and Program Design in C" Pearson Education
+27. Tanenbaum A M, "Data Structures using C & C++", PHI
+28. Lipschutz, "Data Structure", TMH
+29. Loudon K, "Mastering Algorithms With C", Shroff Publisher& Distributors
+30. Preiss Bruno R, "Data Structures and Algorithms with Object Oriented
+Design Pattern in C++", Jhon Wiley & Sons, Inc.
+31. Drozdek Adam, "Data Structures and Algorithms in C++", Thomson Asia
+32. Sorenson Pal G., "An Introduction to Data Structures with
+Application", TMH.
+33. Abraham Siberschatz and Peter Baer Galvin, "Operating System Concepts", Fifth
+Edition, Addision-Wesley
+34. Milan Milankovic, "Operating Systems, Concepts and Design", McGraw-Hill.
+35. Harvey M Deital, "An Introduction to Operating Systems", Addison Wesley.
+36. Tanenbaum A. S. "Modern Operating System " PHI.
+37. Hearn D and Baker P.M. "Computer Graphics" Prentice Hall.
+38. Harrington S : "Computer Graphics: A Programming Approach", McGraw Hill 1983.
+39. Foley J D and Van Dam A, "Fundamentals of Interactive Computer Graphics", Addison Wesley.
+40. Ralf Steinmetz, Klara steinmetz, "Multimedia Computing, Communications and Applications", Pearson education.
+41. Tay Vaughan, "Multimedia : Making it Work", Tata McGrawHills.
+42. Shuman James E., "Multimedia in Action", Vikas Publishing House.
+43. Rogers D.F. and Adams J.,"Mathematical Elements of Computer Graphics", Mc Graw Hill 1985.
+44. Arnold, john, Robertson, Ivan T. and Cooper, Cary, L.,"Work psychology:
+Understanding Human Behaviour in the Workplace", McMillan India
+Ltd. Delhi.1996
+
+45. Dwivedi, R.S.,"Human relations and Organization Behaviour: A Global
+Perspective", McMillan India Ltd. Delhi.1995
+
+46. A.M.Natarajan & A.Tamilarasi, "Probability Random Processes and Queuing theory", New
+Age International Publishers, 2nd Edition, 2005.
+
+47. S.K. Gupta, " Numerical Methods for Engineers ", New age International Publishers , 1995.
+48. Sharma S.D,., "Operation Research".
+49. Kapoor V.K,., "Operation Research".
+50. Gillet,B.E. "Introduction to operations Research: A computer oriented Algorithmic approach, "Tata McGraw Hill. NewYork 1990.
+51. Gross, D., and Harris, C.N., "Fundamental of Queuing Theory", John Wiley and Sons. New York 1980.
+52. Hillier, F. and Lieberman, G.J., "Introduction to operations Research." Holden Day. New York 1985.
+53. Kambo, N.S., "Mathematical Programming Techniques", McGraw Hill. New
+York 1985.
+54. Kanti Swarup, Gupta P.K. and Man Mohan,"Operations Research". Sultan
+chand & sons. New Delhi 1990.
+55. Mital, K.V., "Optimization Methods in operations Research and system
+Analysis", New Age International (P) ltd, New Delhi, 1992.
+56. Shaffer, L.R., Filter J.B., and Neyer W.L., "The critical Path Method", McGraw
+Hill. New York, 1990.
+57. Tanenbaum A.S., "Computer Networks", 3rd Ed, PHI, 1999.
+58. Comer Douglas E., "Computer Networks".
+59. Stallings W., "Computer Communication Networks", PHI.
+60. Michael A. Miller, "Data & Network Communication", Vikas Publication.
+61. William A. Shay, "Understanding Data Communication & Networks",
+Vikas Publication.
+62. Elmsari And Navathe, "Fundamental of Database Systems", Addison Wesley, New York.
+63. Desai B., "An Introduction to Database Concepts" Galgotia Publications, New Delhi.
+64. Date, C.J., "An Introduction to Database Systems", Narosa Publishing House New Delhi.
+65. Ullman. J.D., "Principles of Database Systems", Galgotia Publications, New Delhi.
+66. Hopcroft, Ullman, "Introduction to Automata Theory, Language and
+Computation", Naerosa Publishing House.
+67. Mishra K.L.P.and Chandrasekaran N., "Theory of Computer Science
+(Automata,Languages and Computation)", PHI.
+68. Martin J. C., "Introduction to Languages and Theory of Computations", TMH.
+69. Papadimitrou, C. and Lewis, C.L., "Elements of theory of Computations", PHI.
+70. Cohen D. I. A., "Introduction to Computer theory", John Wiley & Sons
+71. Kanetkar Y,"Let Us C++", BPB Publication.
+72. Lafore Robert,"Object Oriented Programming in C++", Techmedia
+73. Stroustrup Bjarne,"The C++ Programming Language", Addision Wesely.
+74. Rumbaugh James and others,"Object Oriented Modeling and Designing", PHI
+75. Pressman R. S., "Software Engineering – A practitioner's approach",
+3rd ed., McGraw Hill Int. Ed., 1992.
+76. Jalote P., "An Integrated approach to Software Engineering", Narosa,1991.
+77. Fairley R., "Software Engineering Concepts", Tata McGraw Hill, 1997.
+78. Aggarwal K.K. & Singh Yogesh, "Software Engineering", New Age International, 2001.
+79. Sommerville, "Software Engineering ", Addison Wesley, 1999
+80. Aho Alfred V., Ullman Jeffrey D., "Principles of Compiler Design", Narosa
+81. Aho A.V., R. Sethi and Ullman J.D, "Compiler: principle, Techniques and Tools", AW
+82. Holub H.C. "Compiler Design in C", Prentice Hall Inc.
+83. Sahani Horowitz, " Fundamentals of Computer Algorithms", Golgotia.
+84. Coremen Leiserson etal, " Introduction to Algorithms", PHI.
+85 Bratley. Brassard, "Fundamental of Algorithms", PHI.
+86. Goodrich M T etal, "Algorithms Design", John Wiley.
+87. Aho A V etal, "The Design and analysis of Algorithms", Pearson Education.
+88. Stallings William, "Cryptography and Network Security: Principles and
+Practice", Prentice Hall, New Jersey.
+89. Buchmann Johannes A.," Introduction to cryptography", Springer- Verlag.
+90. Kahate Atul, "Cryptography and Network Security", TMH.
+91. Smith Patrick & Guengerich Steave, "Client / Server Computing", PHI
+92. Dewire Dawna Travis, "Client/Server Computing", TMH
+93. Majumdar & Bhattacharya, "Database management System", TMH
+94. Korth, Silberchatz, Sudarshan, "Database Concepts", McGraw Hill
+95. Elmasri, Navathe, S.B, "Fundamentals of Data Base System", Addison Wesley
+96. Kai Hwang, "Advanced Computer Architecture: Parallelism, Scalability and Programmability", McGraw Hill Inc.
+97. Hwang Kai & Briggs F.A., "Computer Architecture and Parallel Processing", McGraw Hill Inc.
+98. Hennessey & Patterson, "Computer Architecture A Quantitative Approach", Harcourt Asia, Morgan Kaufmann.
+99. Upadhyaya Shambhu, Chaudhary Abhijeet, Kwiat Kevin, Weises Mark, "Mobile Computing", Kluwer Academic Publishers
+100. Hansmann UWE, Merk Lothar, Martin-S-Nickious, Stohe Thomas, "Principles of Mobile Computing", Springer International Edition
+101. Yashwant Kanetkar, "Visual C++ Programming", BPB.
+102. Jim Conger," Windows Programming Primer Plus", Galgotia.
+103. Majumdar & Bhattacharya, "Database Management System", TMH.
+104. Elmasri and Navathe, "Fundamentals of Database Systems", Addison Wesley, 2000.
+105. Korth, Silbertz, Sudarshan, "Database Concepts", McGraw Hill.
+106. Date C j, "An Introduction to Database System", Addison Wesley.
+107 Hanson Gary W. and Hanson James V., "Database Management and Design", Prentice Hall of India Pvt Ltd, 1999.
+108. Kalakota Ravi, Winston Andrew, "Frontiers of Electronic Commerce", Addison Wesley.
+109. Bajaj and Nag, "E-Commerce the cutting edge of Business", TMH
+110. Loshin P., Vacca John, "Electronic commerce", Firewall Media, New
+111. Gordon Geoftrey,"System Simulation", PHI
+112. Deo Narsingh, "System Simulation with digital computer", PHI
+113. Law Averill M., Kelton W. David, "Simulation Modeling and Analysis", TMH
+114. Margaret Levine Young, "Internet and WWW", Tata McGraw Hill.
+115. Ivan Bayross, "Web Technologies Part II", BPB Publications.
+116. Naughton, Schildt, "The Complete Reference Java2", TMH.
+117. Balagurusamy E., "Programming in Java", TMH.
+118. Keyur shah, "Gateway to Java Programmer Sun Certification", TMH
+119. Deitel & Deitel, "Java How to Program", Prentice Hall.
+120. Rich, E., and Knight, K.,"Artificial Intelligence", Addison Wesley Publishing Company, M.A.1992
+121 Nilsson, N.J., "Principles of AI", Narosa Publishing House, 1990.
+122. Patterson, D.W., "Introduction to AI and Expert Systems", Prentice Hall of India, 1992
+123. Pandhy N.P.,"Artificial Intelligence and Intelligent Systems", Oxford, 2006
+124. Haykin Simon, "Neural Networks – A Comprehensive Foundation", Macmillan
+Publishing Co., New York, 1994.
+125. Mahrotra K., Mohan C.K. and Ranka Sanjay, "Elements of Artificial Neural Networks", MIT Press, 1997 – Indian Reprint Penram International Publishing (India), 1997
+126. CichockA. i and Unbehauen R., "Neural Networks for optimization and Signal processing", John Wiley and Sons, 1993.
+127. Zurada J.M., "Introduction to Artificial Neural networks", (Indian edition) Jaico Publishers, Mumbai, 1997.
+128. Fu Limin. "Neural Networks in Computer Intelligence", TMH.
+129. Inmon W.H., "Building the Data Warehouse", John Wiley & Sons.
+130. Inmon W.H., Kelly C., "Developing the Data Warehouse", John Wiley &Sons.
+131. Inmon W.H., Gassey C.L. "Managing the Data Warehouse", John Wiley& Sons.
+132. Fayyad, Usama M. etal. "Advances in knowledge discovery & Data Mining", ,MIT Press.
+133. Berson, "Data Warehousing, Data-Mining & OLAP", TMH.
+134. Mallach, "Decision Support and Data Warehousing System", TMH.
+135. Carey R., Bell G. "The Annotated VRML 2.0 Reference" Addison Wesley, 1997.
+136. McCarthy M., Descartes A. "Reality Architecture: Building 3D Worlds In Java and VRML" Prentice Hall, 1998.
+137. Diehl S. "Distributed Virtual Worlds: Foundations and Implementation Techniques Using VRML, Java, and CORBA.", Springer Verlag, 2001.
+138. Gonzalez and Wood,"Digital Image Processing", Addison Wesley, 1993.
+139. Rosenfeld and Kak, "Digital Picture Processing Vol. I & Vol. II",Academic, 1982.
+140. How. "Digital Document Processing", Wiley Interscience, 1983. Ballard and Brown "Computer Vision", Prentice Hall, 1982.
+141. Pavlidis.,"Algorithm for graphics and Image Processing", Computer Sc. Press, 1982.
+142. Niblack Wayne "An Introduction to Digital Image Processing", Prentice Hall, 1986.
+143. Sonka Milan, Hlavac Vaclav, Boyle Roger, "Image Processing, Analysis and Machine Vision", Vikas Publications.
+144.Kopetz H., "Real-Time Systems", Kluwer, 1997
+145.Gupta R., "Co-synthesis of Hardware and Software for Embedded Systems", Kluwer 1995.
+146. Krishna, C.M, "Real Time Systems", McGraw Hill
+147. Jane W.S. Liu, "Real Time Systems", Pearson Education Asia
+148. Levi and Agarwal, "Real Time Systems", McGraw Hill
+149. Mathi & Joseph, "Real Time System: Specification, Validation & Analysis", PHI
+150. O'Reilly, "Developing Bio informatics computer Skill",lst Indian Edition's
+
+publication.
+151. Griffiths J.F.,"An Intro. To Generic Analyis-Anthony" et aI. 1st Ed.
+152. Starkey Michal and Elaswarapu Ramnath, "Genomic Protocols".
+153. Misner Stephen & Krawetz Stephen, "Bioinformatics-Methods and
+Protocols".
+154. Hunter Lawrence "'Artificiallntelligence & molecular Biology", Free on web
+155. "DNA & Protein Sequence Analysis-A Practical Approach", IRL Press at
+OX UniversityPress.
+156 Heggins. Des willie Taylor "Bioinformatics : Sequence, Structure &
+Databases: A practical Approach".
+157 "Bio-Informatics", Addison Wesley.
+158. Michael.R.Lyu, Handbook of Software Reliability Engineering, 2nd edition,
+2004.
+159. J.D. Musa, A. Iannino and K.Okumoto, Software Reliability, Measurement,
+Prediction, Application, McGraw Hill, 2000.
+160. J.D. Musa, Software Reliability Engineering, McGraw Hill, 2000.
+161. Program to illustrate the use of overloading and overriding.
+162. Program to implement the concept of Interfaces and packages.
+163. Generate the program using exceptions handling mechanism.
+164. Implement the file operations.
+165. Implement the concept of multithreading
+166. Program using Applets.
+167. Program using JDBC.
+168. Developing TCP/IP client server program.
